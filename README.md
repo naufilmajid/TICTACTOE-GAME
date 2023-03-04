@@ -12,11 +12,11 @@ This is a Tic Tac Toe game built in Python. It's a simple console-based game whe
 9. If the game is tied, the game will prompt if you want to play again or not.
 
 # Features
-. Players can enter their names.
-. The game displays the current state of the board after each move.
-. The game checks for valid moves and prevents players from choosing spaces that have already been marked.
-. The game detects when a player has won and displays the winner.
-. The game detects when the game is tied and prompts if you want to play again or not.
+1. Players can enter their names.
+2. The game displays the current state of the board after each move.
+3. The game checks for valid moves and prevents players from choosing spaces that have already been marked.
+4. The game detects when a player has won and displays the winner.
+5. The game detects when the game is tied and prompts if you want to play again or not.
 
 # Technologies Used
 Python 3
